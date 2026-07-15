@@ -25,7 +25,7 @@ dependencies {
     api("net.minestom:minestom:2026.03.25-1.21.11")
 
     testImplementation("org.jetbrains.kotlin:kotlin-test")
-    testImplementation("org.junit.jupiter:junit-jupiter:6.0.3")
+    testImplementation("org.junit.jupiter:junit-jupiter:6.1.2")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
 
